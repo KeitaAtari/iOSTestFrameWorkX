@@ -9,6 +9,6 @@
 import Foundation
 public class iOSTestFrameWorkX: NSObject {
     public func iOSTestFrameWorkXMethod() {
-        print("iOSTestFrameWorkX().iOSTestFrameWorkXMethod is called !!")
+        print("iOSTestFrameWorkX().iOSTestFrameWorkXMethod is called !! version 2")
     }
 }
